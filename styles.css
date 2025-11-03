@@ -49,11 +49,12 @@ body {
     width: 100%;
     aspect-ratio: 1 / 1;
     overflow: hidden;
+    height: 400px;
 }
 
 .img-post img {
-    width: 100%;
-    height: 100%;
+    width: 470px;
+    height: 400px;
     object-fit: cover;
 }
 
